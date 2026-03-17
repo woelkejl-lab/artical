@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+<h1></h1>
+		<style>
+    table, tr, td {
+        border: 1px solid black;
+    }
+</style>
+	</head>
+	<body>
+
+<table>
+    <caption>colos</caption>
+   <tr>
+        <th colspan="5">Colors of the Rambow</th>
+    </tr>
+    <tr>
+        <th>Teal</th>
+        <th>Red</th>
+        <th>Gold</th>
+        <th>Green</th>
+  </tr>
+  <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+  </tr>
+   <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+  </tr>
+   <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+  </tr>
+	</table>
+	</body>
+</html>
