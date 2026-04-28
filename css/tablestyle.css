@@ -1,7 +1,7 @@
-table, tr, td{
 background-color:red;
-border: 1px solid black;
-}
+ table, tr, td {
+        border: 1px solid black;
+    }
 h1{
   color:green;
 }
