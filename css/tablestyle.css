@@ -4,6 +4,9 @@
 h1{
   color:green;
 }
+table.standings{
+ background-color:green;
+}
 table.standings tr.Black_hawks {
     background-color:#000000;
  color:white;
