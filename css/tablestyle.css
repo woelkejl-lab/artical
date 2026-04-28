@@ -1,10 +1,10 @@
- table, tr, td {
+ table, tr, th {
   background-color:red;
         border: 1px solid black;
     }
 h1{
   color:green;
 }
-tr.gray_row {
+th.gray_row {
     background-color:#CCCCCC;
   }
