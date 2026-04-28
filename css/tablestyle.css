@@ -22,7 +22,9 @@ table.Soccer_standings{
 }
 table.standings tr.Brazil {
     background-color:#305cde;
+ color:white;
   }
 table.standings tr.U.S.A. {
     background-color:#cd1c18;
+ color:white;
   }
