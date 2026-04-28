@@ -15,3 +15,14 @@ table.standings tr.blue_jays {
     background-color:#305cde;
  color:white;
   }
+
+table.standings2{
+ background-color:black;
+ color:white;
+}
+table.standings tr.Brazil {
+    background-color:#305cde;
+  }
+table.standings tr.U.S.A. {
+    background-color:#cd1c18;
+  }
