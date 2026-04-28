@@ -4,7 +4,11 @@
 h1{
   color:green;
 }
-table.standings tr.gray_row {
+table.standings tr.Black_hawks {
+    background-color:#000000;
+ color:white;
+  }
+table.standings tr.blue_jays {
     background-color:#000000;
  color:white;
   }
