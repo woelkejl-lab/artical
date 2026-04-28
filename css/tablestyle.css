@@ -1,4 +1,4 @@
-table{
+table, tr, td{
 background-color:red;
 border: 1px solid black;
 }
