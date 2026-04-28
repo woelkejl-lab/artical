@@ -19,11 +19,11 @@ table.standings tr.blue_jays {
 table.Soccer_standings{
 background-color:black;
 }
-table.standings tr.Brazil {
+table.Soccer_standings tr.Brazil {
     background-color:#305cde;
  color:white;
   }
-table.standings tr.U-S-A {
+table.Soccer_standings tr.U-S-A {
     background-color:#cd1c18;
  color:white;
   }
