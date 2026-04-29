@@ -19,6 +19,10 @@ table.standings tr.blue_jays {
 table.Soccer_standings{
 background-color:black;
  color:white;
+ selector:hover{
+  background-color:green;
+  color:black;
+ }
 }
 table.Soccer_standings tr.Brazil {
     background-color:#305cde;
