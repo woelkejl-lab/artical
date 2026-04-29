@@ -18,15 +18,24 @@ table.standings tr.blue_jays {
 
 table.Soccer_standings{
 background-color:green;
-  selector:hover{
-  background-color:white;
- }
 }
 table.Soccer_standings tr.Brazil {
     background-color:#305cde;
  color:white;
   }
 table.Soccer_standings tr.U-S-A {
+    background-color:#cd1c18;
+ color:white;
+  }
+
+table.Hockey_standings{
+background-color:blue;
+}
+table.Soccer_standings tr.Huricans {
+    background-color:#black;
+ color:white;
+  }
+table.Soccer_standings tr.Red_Wings {
     background-color:#cd1c18;
  color:white;
   }
