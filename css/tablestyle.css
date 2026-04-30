@@ -31,11 +31,11 @@ table.Soccer_standings tr.U-S-A {
 table.Hockey_standings{
 background-color:blue;
 }
-table.Soccer_standings tr.Hurricane {
+table.Soccer_standings tr.Hurricane{
     background-color:black;
  color:white;
   }
-table.Soccer_standings tr.Red_Wings {
+table.Soccer_standings tr.Red_Wings{
     background-color:red;
   color:white;
   }
