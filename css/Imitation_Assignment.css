@@ -10,7 +10,7 @@
 border-image: url(images/tic-tac-toe[1].png) 27 round;
 }
 .penguins{
-	filter:sepia(100%)
+	sepia(100%)
 	boarder: 1px solid #000000;
   border-radius: 100%;
 }
