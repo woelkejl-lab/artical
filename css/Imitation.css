@@ -5,9 +5,9 @@
   
 }
 .football{
-  border-image-source: url(tic-tac-toe[1].png);
+  border-image-source: url(images/tic-tac-toe[1].png);
   border: 27px solid #000;
-border-image: url(tic-tac-toe[1].png) 27 round;
+border-image: url(images/tic-tac-toe[1].png) 27 round;
 }
 .penguins{
   
